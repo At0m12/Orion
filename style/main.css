@@ -1,0 +1,42 @@
+html, body
+{
+    background-color: #282828;
+}
+
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.Title
+{
+    font-size: 50px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+
+    color: rgb(19, 110, 19);
+
+    font-style:normal;
+
+    border: 3px rgb(40, 40, 40) solid;
+    border-radius: 5px;
+    background-color: rgb(50, 50, 50);
+}
+
+.login
+{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(120, 120, 120);
+
+    border: 3px rgb(40, 40, 40) solid;
+    border-radius: 5px;
+    background-color: rgb(50, 50, 50);
+
+    font-size: max(16px, 1em);
+    padding: 0.25em 0.5em;
+    border-radius: 4px;
+}

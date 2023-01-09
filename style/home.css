@@ -1,0 +1,22 @@
+p {
+    color: azure;
+}
+
+.t {
+    font: bold;
+    font-size: 150%;
+    text-align: center;
+    padding: 20px;
+}
+
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+}
